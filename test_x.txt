@@ -1,0 +1,9 @@
+open -psw 12345678 1	# open secure session using user 1
+testsha      		# run SHA256 test vectors
+testhmac     		# run HMAC test vectors 
+prepecdsa l  		# prepare ECDSA for specific keys
+testecdsa   		# run ECDSA test vectors
+testecdh 		# run ECDH test vector
+testecies		# run ECIES test vector
+close			# close
+quit

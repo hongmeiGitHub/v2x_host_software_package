@@ -1,0 +1,4 @@
+randkeyfile -psw 12345678 -k0 -k1 -k2 -k3 -k4 -k5 -k6 -k7	#generate fresh keys in the keys subfolder & create init.txt
+init -f init.txt						#load generated keys
+info
+quit

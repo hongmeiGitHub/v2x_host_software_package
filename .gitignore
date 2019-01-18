@@ -1,0 +1,6 @@
+*.o
+*.a
+V2X_SPI.log
+v2xtool
+*.swp
+*.save

@@ -1,0 +1,6 @@
+#blablablab
+# blabla
+open -psw 12345678 1	# open secure channel with User1 password
+info			# retrieve security controller information
+close			# destroy session keys
+quit			# quit v2xtool

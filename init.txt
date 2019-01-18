@@ -1,0 +1,1 @@
+init -psw 12345678 -k0 62962262.key -k1 FE89BEE1.key -k2 263B5A25.key -k3 FEA8E67B.key -k4 F33D4853.key -k5 0CD5F544.key -k6 2FABC8F0.key -k7 C971591B.key
